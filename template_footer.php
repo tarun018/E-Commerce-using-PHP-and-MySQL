@@ -1,0 +1,1 @@
+<div id="pageFooter">Copyright | <a href="http://localhost/InorbitMall/storeadmin">Admin</a></div>
